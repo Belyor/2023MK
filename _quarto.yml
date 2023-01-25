@@ -1,7 +1,6 @@
 project:
   type: book
-  output-dir: docs
-  
+
 book:
   title: "Mechanika Kwantowa 2023"
   author: 
@@ -35,3 +34,6 @@ format:
     margin-bottom: 12%
   pdf:
     documentclass: scrreprt
+
+execute:
+  freeze: auto
