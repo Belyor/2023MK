@@ -35,5 +35,5 @@ format:
   pdf:
     documentclass: scrreprt
 
-execute:
-  freeze: auto
+# execute:
+#   freeze: auto
