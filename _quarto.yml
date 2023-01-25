@@ -1,0 +1,45 @@
+project:
+  type: book
+
+book:
+  title: "Mechanika Kwantowa 2023"
+  author: 
+    - name: Piotr Magierski
+      affiliations:
+        - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland
+    - name: Gabriel Wlazłowski
+      affiliations:
+        - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland 
+    - name: Andrzej Makowski
+      affiliations:
+        - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland
+  date: "2023"
+  date-format: "YYYY"
+  chapters:
+    - index.qmd
+    - ./chapters/0_wyklad.qmd
+    - part: ./chapters/1_rachunek-zaburzen.qmd
+      chapters:
+        - ./chapters/1-1_st-rachunek-zaburzen.qmd
+    - ./chapters/2_rozpraszanie.qmd
+    - ./chapters/3_hartree-fock.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: [cosmo, ./cosmo.scss]
+    linkcolor: '#965F77'
+    fontcolor: '#f7f0da'
+    backgroundcolor: '#172126'
+    linestretch: 2px
+    margin-left: 8%
+    margin-right: 8%
+    margin-top: 4%
+    margin-bottom: 12%
+  pdf:
+    documentclass: scrreprt
+
+
+

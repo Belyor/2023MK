@@ -1,0 +1,9 @@
+# Opis przedmiotu {.unnumbered}
+
+Strona zawiera informacje dotyczące przedmiotu _Mechanika kwantowa II_ prowadzonego na Politechnice Warszawskiej dla studentów II stopnia Wydziału Fizyki.
+
+W rozdziale [Wyklad](chapters/0_wyklad.qmd) znajdują się notatki do wykładu do pobrania. 
+
+### Zaliczenie
+
+### Oceny
