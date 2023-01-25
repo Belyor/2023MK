@@ -11,7 +11,7 @@
     "href": "chapters/0_wyklad.html",
     "title": "Wykład",
     "section": "",
-    "text": "Poniżej znajdują sie notatki do wykładu"
+    "text": "<!-- <iframe src=\"http://magierski.fizyka.pw.edu.pl/prezentacje/Mechanika%20kwantowa%20II.pdf#toolbar=1&page=1&view=fitH\" width=\"100%\" height=\"720\" style=\"border:1px solid black;\"> -->"
   },
   {
     "objectID": "chapters/1-1_st-rachunek-zaburzen.html",

@@ -5,11 +5,9 @@ project:
 book:
   title: "Mechanika Kwantowa 2023"
   author: 
-    - name: Piotr Magierski
+    - name: Piotr Magierski, Gabriel Wlazłowski, Andrzej Makowski
       affiliations:
         - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland
-    - name: Gabriel Wlazłowski
-    - name: Andrzej Makowski
   date: "2023"
   date-format: "YYYY"
   chapters:
