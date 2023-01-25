@@ -1,6 +1,7 @@
 project:
   type: book
-
+  output-dir: docs
+  
 book:
   title: "Mechanika Kwantowa 2023"
   author: 
@@ -8,17 +9,13 @@ book:
       affiliations:
         - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland
     - name: Gabriel Wlazłowski
-      affiliations:
-        - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland 
     - name: Andrzej Makowski
-      affiliations:
-        - name: Faculty of Physics, Warsaw University of Technology, Ulica Koszykowa 75, 00-662 Warsaw, Poland
   date: "2023"
   date-format: "YYYY"
   chapters:
     - index.qmd
     - ./chapters/0_wyklad.qmd
-    - part: ./chapters/1_rachunek-zaburzen.qmd
+    - part: "Rachunek Zaburzeń"
       chapters:
         - ./chapters/1-1_st-rachunek-zaburzen.qmd
     - ./chapters/2_rozpraszanie.qmd
@@ -40,6 +37,3 @@ format:
     margin-bottom: 12%
   pdf:
     documentclass: scrreprt
-
-
-

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mechanika Kwantowa 2023",
+    "section": "",
+    "text": "Strona zawiera informacje dotyczące przedmiotu Mechanika kwantowa II prowadzonego na Politechnice Warszawskiej dla studentów II stopnia Wydziału Fizyki.\nW rozdziale Wyklad znajdują się notatki do wykładu do pobrania."
+  },
+  {
+    "objectID": "chapters/0_wyklad.html",
+    "href": "chapters/0_wyklad.html",
+    "title": "Wykład",
+    "section": "",
+    "text": "Poniżej znajdują sie notatki do wykładu"
+  },
+  {
+    "objectID": "chapters/1-1_st-rachunek-zaburzen.html",
+    "href": "chapters/1-1_st-rachunek-zaburzen.html",
+    "title": "Stacjonarny",
+    "section": "",
+    "text": "To be done!"
+  },
+  {
+    "objectID": "chapters/2_rozpraszanie.html",
+    "href": "chapters/2_rozpraszanie.html",
+    "title": "Rozpraszanie",
+    "section": "",
+    "text": "To be done!"
+  },
+  {
+    "objectID": "chapters/3_hartree-fock.html",
+    "href": "chapters/3_hartree-fock.html",
+    "title": "Hartree-Fock",
+    "section": "",
+    "text": "To be done!"
+  }
+]
