@@ -1,9 +1,7 @@
 # Wykład {.numbered}
 
 Poniżej znajdują sie notatki do wykładu
+<iframe src="http://magierski.fizyka.pw.edu.pl/prezentacje/Mechanika%20kwantowa%20II.pdf#toolbar=1&page=1&view=fitH" width="100%" height="720" style="border:1px solid black;">
 
-<iframe src="../wyklad/notatki_mk2023.pdf#toolbar=1&page=1&view=fitH" width="100%" height="720" style="border:1px solid black;">
-
-<!-- <iframe src="http://magierski.fizyka.pw.edu.pl/prezentacje/Mechanika%20kwantowa%20II.pdf#toolbar=1&page=1&view=fitH" width="100%" height="720" style="border:1px solid black;"> -->
 
 </iframe>
